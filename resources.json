@@ -1,0 +1,13 @@
+{
+    "base-url":"http://wallpaperswide.com/download",
+    "high-dimension":"1920x1080",
+    "low-dimension":"640x360",
+    "url-format":"{base-url}/{image-name}-{high-dimension|low-dimension}.jpg",
+    "image-names":[
+        "gods_and_monsters_video_game_2020-wallpaper",
+        "remnant_from_the_ashes_game-wallpaper",
+        "doom_eternal_video_game_2020_doom_slayer-wallpaper",
+        "sephiroth_final_fantasy_vii_remake_video_game_2020-wallpaper",
+        "halo_infinite_2020_video_game_2-wallpaper"
+    ]
+}

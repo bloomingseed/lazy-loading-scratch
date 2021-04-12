@@ -1,0 +1,10 @@
+.d-flex{
+    display:flex;
+}
+.lazy-container{
+    display:relative;
+}
+.lazy-container:last-child{
+    z-index:2;
+    position:absolute;
+}
